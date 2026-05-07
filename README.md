@@ -1,0 +1,1 @@
+inspect eval test.py --model "openrouter/poolside/laguna-m.1:free"
