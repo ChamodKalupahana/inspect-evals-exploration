@@ -11,8 +11,8 @@ def hello_world():
     return Task(
         dataset=[
             Sample(
-                input="Just reply with hello world bro",
-                target="hello world bro",
+                input="what's the answer to the universe",
+                target="42",
             )
         ],
         solver=[generate()],
